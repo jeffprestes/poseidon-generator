@@ -1,0 +1,13 @@
+{
+  "name": "poseidon-generator",
+  "version": "0.0.1",
+  "description": "Tool to generate and deploy poseidon hash functions",
+  "main": "index.js",
+  "author": "Jeff Prestes",
+  "license": "MIT",
+  "dependencies": {
+    "circomlibjs": "^0.1.7",
+    "dotenv": "^16.0.3",
+    "ethers": "^6.0.0"
+  }
+}
